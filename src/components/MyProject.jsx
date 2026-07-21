@@ -28,8 +28,8 @@ const projects = [
     icon: "🚀",
     color: "from-[#2f6f63] to-[#7fae9f]",
     border: "hover:border-[#2f6f63]/50",
-    github: "https://github.com/amitneg",
-    live: "#",
+    github: "https://github.com/Amit-singh-negi/My-Portfolio",
+    live: "https://my-portfolio-chi-inky-46.vercel.app",
   },
   {
     title: "E-commerce Website",
